@@ -1,3 +1,6 @@
+# please download all files from:
+# http://nlp.cs.tamu.edu/People/WenlinYao_files/EventNarratives/event_knowledge.zip
+
 import pickle
 import math
 
